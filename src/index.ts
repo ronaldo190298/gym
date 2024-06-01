@@ -6,7 +6,7 @@ const port = 3000;
 
 async function getConnection() {
   const client = new Client({
-    connectionString: 'postgres://postgres.nhladhcawqbnfkdblwrk:Dhoni@123Naresh@aws-0-ap-southeast-1.pooler.supabase.com:5432/postgres',
+    connectionString: 'postgres://postgres.fgrztnjfkognigalsolx:Dhoni@23Naresh@aws-0-ap-southeast-1.pooler.supabase.com:6543/postgres',
     ssl: {
       rejectUnauthorized: false,
     },
